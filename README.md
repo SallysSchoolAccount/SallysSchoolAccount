@@ -2,10 +2,10 @@
 ## Inhaltverzeichniss
 - [Über mich](#über-mich)  
 - [Technische Skills](#technische-skills)  
-- [Anhange](#anhange)
+- [Anhänge](#anhange)
 ## Über mich
 ### **Salvatore Pontillo**
-Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, mit voraussichtlicher Abschluss in 2026. Die Karten, die ich auf den Tisch lege, sind fundierte Datenbank- und Java-Kenntnisse – gepaart mit einem ausgeprägten Talent, komplexe Zusammenhänge zu erkennen und Projekte mit Struktur und Weitblick zu planen.
+Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, mit voraussichtlichem Abschluss in 2026. Die Karten, die ich auf den Tisch lege, sind fundierte Datenbank- und Java-Kenntnisse – gepaart mit einem ausgeprägten Talent, komplexe Zusammenhänge zu erkennen und Projekte mit Struktur und Weitblick zu planen.
 
 ## Technische Skills
 ### 📜Programmiersprachen
@@ -14,8 +14,8 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)       | ⭐⭐⭐⭐⭐     | Scripting und kleine Programme z.b für Dateikonversion |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)        | ⭐⭐⭐⭐ ☆     | Lieblingsprogrammiersprache, OOP          |
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)          | ⭐⭐⭐ ☆  ☆      | Backend Web und Komplexe Webapplikationen                  |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)       | ⭐⭐⭐ ☆ ☆     | Grundgerust für Applikationen                  |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | ⭐⭐⭐ ☆  ☆      | Dynamik und Inteaktivität|
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)       | ⭐⭐⭐ ☆ ☆     | Grundgerüst für Applikationen                  |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | ⭐⭐⭐ ☆  ☆      | Dynamik und Interaktivität|
 <br>
 
 ---
@@ -29,29 +29,31 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 <br>
 
 ---
-### 🖥️ Betiebsysteme
+### 🖥️ Betriebsysteme
 | OS               | Level   | Bemerkungen                                   |
 |------------------|-----------|----------------------------------------|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   | ⭐⭐⭐⭐☆     | Dual Boot und Umbebung auf Windows   |
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ⭐⭐⭐⭐☆    | Aktueller Betriebsystem     |
-|![OSX](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)         | ⭐⭐   ☆   ☆  ☆       | Für 3 Jahre benutzt bevor ich auf Windows zurückstieg  |
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ⭐⭐⭐⭐☆    | Aktuelles Betriebsystem     |
+|![OSX](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)         | ⭐⭐   ☆   ☆  ☆       | Für 3 Jahre benutzt bevor ich wieder auf Windows umstieg  |
 <br>
 
 ---
 ### 🗃️ Database
 | Datenbank        | Level   | Bemerkungen                                  |
 |--------------|-----------|---------------------------------------|
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)       | ⭐⭐⭐⭐ ☆      | Query SQL, progetti CRUD              |
-| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  | ⭐⭐⭐⭐ ☆     | Joins, subquery, normalizzazione     |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)    | ⭐⭐ ☆   ☆   ☆       | In fase di esplorazione               |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)       | ⭐⭐⭐⭐ ☆      | Query SQL, CRUD Projekte              |
+| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  | ⭐⭐⭐⭐ ☆     | Joins, subquery, normalisierung     |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)    | ⭐⭐ ☆   ☆   ☆       | Einfache JSON Datenbänke für einfache Projekte              |
 <br>
 
 ## Anhänge
-### Modulnotenübesicht
-Hier finden sie alle Noten zu meine Module
+### Modulnotenübersicht
+Hier finden sie alle meine Modulnoten
 - [Modulnoten](Modulnoten.pdf)
 <br>
 
 ### Lebenslauf
-Hier finden sie mein Lebenslauf
+Hier finden sie meinen Lebenslauf
 - [Lebenslauf](Lebenslauf.pdf)
+<br>
+

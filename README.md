@@ -2,12 +2,12 @@
 ## Inhaltverzeichniss
 - [Über mich](#über-mich)  
 - [Technische Skills](#technische-skills)  
-- [Anhänge](#anhänge)
+- [Anhange](#anhange)
 ## Über mich
 ### **Salvatore Pontillo**
 Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, mit voraussichtlicher Abschluss in 2026. Die Karten, die ich auf den Tisch lege, sind fundierte Datenbank- und Java-Kenntnisse – gepaart mit einem ausgeprägten Talent, komplexe Zusammenhänge zu erkennen und Projekte mit Struktur und Weitblick zu planen.
 
-## 💻 Technische Skills
+## Technische Skills
 ### 📜Programmiersprachen
 | Sprache     | Level   | Bemerkungen                              |
 |----------------|-----------|-----------------------------------|
@@ -46,7 +46,7 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)    | ⭐⭐ ☆   ☆   ☆       | In fase di esplorazione               |
 <br>
 
-## 📎 Anhänge
+## Anhänge
 ### Modulnotenübesicht
 Hier finden sie alle Noten zu meine Module
 - [Modulnoten](Modulnoten.pdf)

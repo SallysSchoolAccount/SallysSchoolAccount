@@ -9,7 +9,7 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 
 ## Technische Skills
 ### 📜Programmiersprachen
-| Sprache     | Level   | Bemerkungen                              |
+| Sprache     | Kenntnisslevel   | Bemerkungen                              |
 |----------------|-----------|-----------------------------------|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)       | ⭐⭐⭐⭐⭐     | Scripting und kleine Programme z.b für Dateikonversion |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)        | ⭐⭐⭐⭐ ☆     | Lieblingsprogrammiersprache, OOP          |
@@ -20,7 +20,7 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 
 ---
 ### 🧰 Tools und sonstige Sprachen
-| Tool    | Level   | Bemerkungen                              |
+| Tool    | Kenntnisslevel   | Bemerkungen                              |
 |---------------------|-----------|-----------------------------------|
 |![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)           | ⭐⭐⭐⭐⭐     | Für Dokumentation, Schulnotizen und diese Seite      |
 | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)       | ⭐⭐⭐ ☆ ☆      | In zusammenhang mit Python benutzt für komplexere Scripts               |
@@ -30,7 +30,7 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 
 ---
 ### 🖥️ Betriebsysteme
-| OS               | Level   | Bemerkungen                                   |
+| OS               | Kenntnisslevel   | Bemerkungen                                   |
 |------------------|-----------|----------------------------------------|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   | ⭐⭐⭐⭐☆     | Dual Boot und Umbebung auf Windows   |
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ⭐⭐⭐⭐☆    | Aktuelles Betriebsystem     |
@@ -39,7 +39,7 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 
 ---
 ### 🗃️ Database
-| Datenbank        | Level   | Bemerkungen                                  |
+| Datenbank        | Kenntnisslevel   | Bemerkungen                                  |
 |--------------|-----------|---------------------------------------|
 | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)       | ⭐⭐⭐⭐ ☆      | Query SQL, CRUD Projekte              |
 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  | ⭐⭐⭐⭐ ☆     | Joins, subquery, normalisierung     |

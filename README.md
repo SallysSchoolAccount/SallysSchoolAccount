@@ -1,8 +1,8 @@
 # Willkommenm zu mein Github Profil
 ## Inhaltverzeichniss
 - [Über mich](##Über_mich)
-- [Technische Fahigkeiten](##💻_Technische_Skills)
-- [Anhange](##📎_Anhänge)
+- [Technische Fahigkeiten](##Technische-Skills)
+- [Anhange](##Anhänge)
 ## Über mich
 ### **Salvatore Pontillo**
 Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, mit voraussichtlicher Abschluss in 2026. Die Karten, die ich auf den Tisch lege, sind fundierte Datenbank- und Java-Kenntnisse – gepaart mit einem ausgeprägten Talent, komplexe Zusammenhänge zu erkennen und Projekte mit Struktur und Weitblick zu planen.

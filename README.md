@@ -49,11 +49,12 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 ## Anhänge
 ### Modulnotenübersicht
 Hier finden sie alle meine Modulnoten
-- [Modulnoten](Modulnoten.pdf)
+- [Modulnoten](https://github.com/user-attachments/files/20838662/Modulnotenubersicht.pdf)
 <br>
 
 ### Lebenslauf
 Hier finden sie meinen Lebenslauf
-- [Lebenslauf](Lebenslauf.pdf)
+- [Lebenslauf](https://github.com/user-attachments/files/20838624/Lebenslauf.pdf)
+pdf)
 <br>
 

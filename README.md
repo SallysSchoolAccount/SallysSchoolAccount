@@ -48,6 +48,11 @@ Ich bin 18 Jahre alt und momentan besuche ich die Informatikmittelschule Basel, 
 <br>
 
 ## Anhänge
+### Informationen für Praktikumsbetriebe
+Falls sie noch nie ein IMS-Praktikant ins Betrieb hatten
+- [IMS Ausbildungsbeschrieb für Praktikumsbetriebe](https://github.com/user-attachments/files/20881004/3_IMS_Ausbildungsbeschrieb_fur_Praktikumsbetriebe.pdf)
+<br>
+
 ### Modulnotenübersicht
 Hier finden sie alle meine Modulnoten
 - [Modulnoten](https://github.com/user-attachments/files/20838662/Modulnotenubersicht.pdf)
@@ -57,4 +62,3 @@ Hier finden sie alle meine Modulnoten
 Hier finden sie meinen Lebenslauf
 - [Lebenslauf](https://github.com/user-attachments/files/20838624/Lebenslauf.pdf)
 <br>
-
